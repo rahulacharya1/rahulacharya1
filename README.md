@@ -48,9 +48,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rahulkumaracharya/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://github.com/rahulacharya1"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome"></a>
+<a href="https://acharyarahul.in"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome"></a>
 </p>
 
 ---
